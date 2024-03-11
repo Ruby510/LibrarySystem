@@ -3,35 +3,12 @@ Software Requirement Specification
 Spring 2024
 Version 1.0.0
 
-
 Project Manager: Charlie Cardenas
 Backend Developer: Charlie Cardenas, Conrad Bidrawn, Ngoc Tran
 Frontend Developer: Alexis Keck, Ngoc Tran
 Quality assurance: Miguel Romero, Charlie Cardenas, Ngoc Tran
 Documentation/Technical Writer: Miguel Romero, Conrad Bidrawn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-________________
+______________
 Table of Contents
 1. Introduction:        3
 1.1. Purpose        3
