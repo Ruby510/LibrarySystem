@@ -1,0 +1,196 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Ngoc Tran",
+            "email": "admin1@csu.fullerton.edu",
+            "avatar": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/336456515_920752875636955_5786813984505569020_n.jpg?_nc_cat=104&_nc_cb=99be929b-713f6db7&ccb=1-7&_nc_sid=5f2048&_nc_ohc=P0uz3cJ0VewQ7kNvgF1hjm8&_nc_ht=scontent-lax3-1.xx&oh=00_AfABTNLsHI_fjn53LY0IT04fMXmB9dCC9tjPSO5V4adl6g&oe=6638FB7A",
+            "role": "Admin"
+        },
+        {
+            "id": 2,
+            "name": "Conrad Bidrawn",
+            "email": "admin2@csu.fullerton.edu",
+            "avatar": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png",
+            "role": "Admin"
+        },
+        {
+            "id": 3,
+            "name": "Alexis Keck",
+            "email": "admin3@csu.fullerton.edu",
+            "avatar": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png",
+            "role": "Admin"
+        },
+        {
+            "id": 4,
+            "name": "Miguel Romero",
+            "email": "admin4@csu.fullerton.edu",
+            "avatar": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png",
+            "role": "Admin"
+        },
+        {
+            "id": 5,
+            "name": "Member 1",
+            "email": "member1@csu.fullerton.edu",
+            "avatar": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png",
+            "role": "Member"
+        },
+        {
+            "id": 6,
+            "name": "Member 2",
+            "email": "member2@csu.fullerton.edu",
+            "avatar": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png",
+            "role": "Member"
+        },
+        {
+            "id": 7,
+            "name": "Member 3",
+            "email": "member3@csu.fullerton.edu",
+            "avatar": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png",
+            "role": "Member"
+        },
+        {
+            "id": 8,
+            "name": "Member 4",
+            "email": "member4@csu.fullerton.edu",
+            "avatar": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png",
+            "role": "Member"
+        },
+        {
+            "id": 9,
+            "name": "Member 5",
+            "email": "member5@csu.fullerton.edu",
+            "avatar": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png",
+            "role": "Member"
+        },
+        {
+            "id": 10,
+            "name": "Member 6",
+            "email": "member6@csu.fullerton.edu",
+            "avatar": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png",
+            "role": "Member"
+        }
+    ],
+    "book": [
+        {
+            "isbn": 1,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "availbility": 2
+        },
+        {
+            "isbn": 2,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "availbility": 2
+        },
+        {
+            "isbn": 3,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "availbility": 2
+        },
+        {
+            "isbn": 4,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "availbility": 2
+        },
+        {
+            "isbn": 5,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "availbility": 2
+        },
+        {
+            "isbn": 6,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "availbility": 2
+        },
+        {
+            "isbn": 7,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "availbility": 2
+        },
+        {
+            "isbn": 8,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "availbility": 2
+        },
+        {
+            "isbn": 9,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "availbility": 2
+        },
+        {
+            "isbn": 10,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "availbility": 2
+        },
+        {
+            "isbn": 11,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "availbility": 2
+        },
+        {
+            "isbn": 12,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "availbility": 2
+        },
+        {
+            "isbn": 13,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "availbility": 2
+        },
+        {
+            "isbn": 14,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "availbility": 2
+        },
+        {
+            "isbn": 15,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "availbility": 2
+        },
+        {
+            "isbn": 16,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "availbility": 2
+        },
+        {
+            "isbn": 17,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "availbility": 2
+        },
+        {
+            "isbn": 18,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "availbility": 2
+        },
+        {
+            "isbn": 19,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "availbility": 2
+        },
+        {
+            "isbn": 20,
+            "title": "Jane Eyre",
+            "author": "Charlotte Brontë",
+            "availbility": 2
+        }
+    ]
+}

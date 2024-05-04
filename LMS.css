@@ -1,63 +1,70 @@
 #background{
     min-height: 1050px;
     width: 100%;
-   
+
 }
 #top{
     height: 35px;
     width: 100%;
     background:#2c7ad6;
-   line-height: 35px;
-   padding: 0px 20px 9px 100px;
-   box-sizing: border-box;
+    line-height: 35px;
+    padding: 0px 20px 9px 100px;
+    box-sizing: border-box;
     word-spacing:10px ;
     
 }
 #menu{
+    display: flex;
+    justify-content: center; /* Centers children horizontally */
+    align-items: center;
     height: 65px;
     width: 100%;
-    background:green;
-   
+    background: rgb(42, 98, 210);
 }
+
 #logo{
-    height: 65px;
     width: 40%;
-    background:white;
+    background: white;
     text-align: center;
     line-height: 65px;
     font-size: 40px;
-    float: left;
 }
-#menu1{
-    height: 65px;
-    width: 60%;
-    background:white;
-    float: left;
+#navbar{
+    width: 60%;  /* Takes up the rest of the space */
+    background: rgb(10, 182, 188);
+    display: flex;
+    justify-content: center; /* Centers the items horizontally */
+    align-items: center; /* Align items vertically in the center */
     
 }
-#menu1 UL{
+#navbar UL{
     list-style: none;
-    padding-left: 200px;
-    box-sizing: border-box;
-    
+    padding: 0;  /* Removes default padding, adjust as needed */
+    margin: 0;
+    display: flex;
+    justify-content: center;  /* Centers items in navbar */
+    align-items: center;
+    width: 100%; /* Ensures the list takes up the full width of its container */
+    height: 100%;
 }
-#menu1 LI{
+#navbar LI{
     height: 45px;
     width: 130px;
-  
     text-align: center ; 
     display: inline-block; 
     line-height: 45px;
     transform: translateY(-5px);
     color: black;
     font-size: 20px;
-   
 }
-#menu1 LI:hover{
+#navbar LI:hover{
     background: #2c7ad6;  
     color: white; 
     transition: all ease 1s;
     border-radius: 3px;
+    margin: 0 10px; /* Adjust spacing between items */
+    display: inline-flex;
+    align-items: center;
 }
 
 #slider{
@@ -66,26 +73,8 @@
     background:url(image/4.jpg);
     background-size: cover;
     background-attachment: fixed;
-   /* animation-name:slider;
-    animation-duration: 20s;
-    animation-iteration-count:infinite ;
-   animation-delay: 3s;*/
 }
-/*
-@keyframes slider{
-   
-    from{
-        background:url(image/4.jpg);
-        background-size: cover;
-        background-attachment: fixed;
-    }
-    to{
-        background:url(image/4.jpg);
-        background-size: cover;
-        background-attachment: fixed;
-    } 
-}
-*/
+
 #x{
     height:640px;
     width: 40%;
@@ -97,6 +86,7 @@
     padding-top: 250px;
     box-sizing: border-box;
 }
+
 #y{
     height:640px;
     width: 30%;
@@ -111,6 +101,7 @@
     background:rgba(0,0,0, .4); 
     float: left;
 }
+
 #l{
     height:450px;
     width: 80%;
@@ -136,12 +127,12 @@
 #r:hover{
     background:linear-gradient(45deg,rgba(50,177,40, .6),rgba(255,255,255, .6));
 }
-#student{
+#user{
     margin:50px 50px;
     color:blue;
     
 }
-#Teacher{
+#admin{
     margin:50px 50px;
     color:white;
 }
@@ -170,3 +161,4 @@
     color: white;
     text-align: center;
 }
+
