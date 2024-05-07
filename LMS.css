@@ -49,7 +49,7 @@
 }
 #navbar LI{
     height: 45px;
-    width: 130px;
+    width: 120px;
     text-align: center ; 
     display: inline-block; 
     line-height: 45px;
@@ -161,4 +161,3 @@
     color: white;
     text-align: center;
 }
-

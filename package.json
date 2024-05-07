@@ -5,7 +5,7 @@
   "name": "librarysystem",
   "description": "Library Management System",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "userindex.js",
   "scripts": {
     "start": "json-server --watch ./db.json"
   },
