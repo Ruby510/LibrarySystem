@@ -29,44 +29,42 @@
                 <div id="l">
                     <h1 style=" text-align: center; color: white;">User</h1>
                     <div id="User">
-                        <div class="input-group" style="color: white;">
-                            <label for="email">EMAIL</label>
-                            <input type="email" name="email" id="email" placeholder="Email" required class="t">
-                        </div>
-                        <div class="input-group" style="color: white;">
-                            <label for="password">PASSWORD</label>
-                            <input type="password" name="password" id="password" placeholder="Password" required class="t">
-                        </div>
+                    <div class="'container" id="signIn">
+                        <form method="post" action="connectlogin.php">
+                            <div class="input-group" style="color: white;">
+                                <label for="email">EMAIL</label>
+                                <input type="email" name="email" id="email" placeholder="Email" required class="t">
+                            </div>
+                            <div class="input-group" style="color: white;">
+                                <label for="password">PASSWORD</label>
+                                <input type="password" name="password" id="password" placeholder="Password" required class="t">
+                            </div>
                             <input type="submit" class="btn" value="Sign In" name="signIn" style="border: none; width: 100%; height: 30px; background-color: white;">
-                        
-                        <p class=" recover">
-                            <a href="#" style="color: white; text-decoration: none;">Forget Password?</a>
-                        </p>
+                        </form>
                     </div>
                 </div>
-            </div> 
+            </div>
+        </div> 
             <div id="z">
                 <div id="r">
                     <h1 style=" text-align: center; color: white;">Admin</h1>
                     <div id="Admin">
-                        <div class="input-group" style="color: white;">
-                            <label for="email">EMAIL</label>
-                            <input type="email" name="email" id="email" placeholder="Email" required class="t">
-                        </div>
-                        <div class="input-group" style="color: white;">
-                            <label for="password">PASSWORD</label>
-                            <input type="password" name="password" id="password" placeholder="Password" required class="t">
-                        </div>
-                        <input type="submit" class="btn" value="Sign In" name="signIn" style="border: none; width: 100%; height: 30px; background-color: #df9618;">
-
-                        <p class=" recover">
-                            <a href="#" style="color: white; text-decoration: none;">Forget Password?</a>
-                        </p>
+                    <div class="'container" id="signIn">
+                    <form method="post" action="connectlogin.php">
+                            <div class="input-group" style="color: white;">
+                                <label for="email">EMAIL</label>
+                                <input type="email" name="email" id="email" placeholder="Email" required class="t">
+                            </div>
+                            <div class="input-group" style="color: white;">
+                                <label for="password">PASSWORD</label>
+                                <input type="password" name="password" id="password" placeholder="Password" required class="t">
+                            </div>
+                            <input type="submit" class="btn" value="Sign In" name="signIn" style="border: none; width: 100%; height: 30px; background-color: white;">
+                        </form>
                     </div>
                 </div>
-            </div> 
-        </div>
-    </div>
+            </div>
+        </div> 
     <script src = "register.js"></script>
 </body>
 </html>

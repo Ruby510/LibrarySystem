@@ -195,7 +195,7 @@ text-align: center;
         <div id="menu">
             <div id="navbar">
                 <ul>
-                    <a href="main.html"><li>Home</li></a>
+                    <a href="main.php"><li>Home</li></a>
                     <a href="register.php"><li>Register</li></a>
                     <a href="login.php"><li>Login</li></a>
                     <a href="userlist.html"><li>User List</li></a>
