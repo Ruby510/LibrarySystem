@@ -34,7 +34,7 @@ if (isset($_POST['signIn'])) {
         session_start();
         $row = $result->fetch_assoc();
         $_SESSION['email'] = $row['email'];
-        header("Location: homepage.php"); // Change to the appropriate welcome or dashboard page
+        header("Location: profile.php"); // Change to the appropriate welcome or dashboard page
         exit();
     } else {
         echo "Not Found, Incorrect Email or Password";
