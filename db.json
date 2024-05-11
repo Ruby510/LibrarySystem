@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Ngoc Tran",
             "email": "admin1@csu.fullerton.edu",
-            "avatar": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/336456515_920752875636955_5786813984505569020_n.jpg?_nc_cat=104&_nc_cb=99be929b-713f6db7&ccb=1-7&_nc_sid=5f2048&_nc_ohc=P0uz3cJ0VewQ7kNvgF1hjm8&_nc_ht=scontent-lax3-1.xx&oh=00_AfABTNLsHI_fjn53LY0IT04fMXmB9dCC9tjPSO5V4adl6g&oe=6638FB7A",
+            "avatar": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png",
             "role": "Admin"
         },
         {
@@ -212,6 +212,5 @@
             "cover": "https://images.freeimages.com/image/previews/1ac/pink-book-icon-png-5694164.png",
             "availability": 3
         }
-        
     ]
 }
