@@ -1,4 +1,12 @@
-<?php?>
+<?php
+
+if (!session_start()) {
+    session_start();
+}
+
 session_destroy();
-header("location: main.php")
+
+// Redirect to main.php
+header("Location: main.php");
+exit(); 
 ?>
